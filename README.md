@@ -165,3 +165,8 @@ _(a.k.a. the day he committed his soul)_
 🙅‍♂️ And `git blame` no one but fate.  
 
 — ___A very tired DacLuc, probably___
+
+```javascript
+// v-0.0.1
+// deployed on Friday the 13th
+```
